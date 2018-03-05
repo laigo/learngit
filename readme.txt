@@ -5,6 +5,6 @@ git is a no 修复bug102 free software distributed under the GPL
 git track changes
 Creating a new branch is quick and simple
 develop modify
-commit version
+commit vQIANersion
 
 git remote commit id 77ebb8679282a54c30459b3c27cad0bd3bdd5cb0
